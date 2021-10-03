@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amruthasriamaravat.wixsite.com/my-site](https://amruthasriamaravat.wixsite.com/my-site)
 
-- 📝 I regularly write articles on [https://docs.google.com/document/d/1WVxilW7R6O4_hsEJtQlWD9qJw7rXzQEx63H-2OAm7y4/edit?usp=sharing](https://docs.google.com/document/d/1WVxilW7R6O4_hsEJtQlWD9qJw7rXzQEx63H-2OAm7y4/edit?usp=sharing)
+- 📝 I regularly write articles on [https://edhub.in/blogs](https://edhub.in/blogs)
 
 - 📫 How to reach me **amruthasriamaravati852@gmail.com**
 
