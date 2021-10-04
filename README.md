@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amruthasriamaravati852@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
+- 📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am cool**
 
