@@ -17,7 +17,7 @@
 
 - 📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am cool**
+- ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
