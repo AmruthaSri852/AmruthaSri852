@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrutha Sri</h1>
-<h3 align="center">2nd year undergrad, on the path to explore</h3>
+<h2 align="center">2nd year undergrad, on the path to explore</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
 
