@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [rigorvigor](https://github.com/Rigorvigor)
 
-- 🌱 I’m currently learning **C++/Python, front-end web development**
+- 🌱 I’m currently learning **C++/Python, front-end web development, also everything possible**
 
 - 👨‍💻 All of my projects are available at [https://amruthasriamaravat.wixsite.com/my-site](https://amruthasriamaravat.wixsite.com/my-site)
 
