@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://edhub.in/blogs](https://edhub.in/blogs)
 
-- 📫 How to reach me **amruthasriamaravati852@gmail.com** do email(amrutha@sri)
+- 📫 How to reach me **amruthasriamaravati852@gmail.com** 
 
 - 📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 
