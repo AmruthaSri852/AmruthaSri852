@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amrutha Sri</h1>
+<h1 align="center">Hello <img src="https://gifimage.net/wp-content/uploads/2017/08/imagenes-de-gif-8.gif" height="50" width="50" >, I'm Amrutha Sri </h1>
 <h2 align="center">Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and explorer🚴‍♀️</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
