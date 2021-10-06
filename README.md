@@ -19,8 +19,7 @@
   
 - ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
-<h3 align="left">Connect with me:   <img src="https://giphy.com/gifs/icons-lines-heads-3oFyD4yCrbo29sDhZe" height="50" width="50" >
-<p align="left">  </h3>  
+<h3 align="left">Connect with me: <p align="left">  </h3>  
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amrutha sri amaravati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha sri amaravati" height="30" width="40" /></a>
 <a href="https://www.behance.net/amrutha sri amaravati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amrutha sri amaravati" height="30" width="40" /></a>
