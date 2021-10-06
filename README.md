@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://gifimage.net/wp-content/uploads/2017/08/imagenes-de-gif-8.gif" height="50" width="50" >, I'm Amrutha Sri </h1>
 <h2 align="center">Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and explorer🚴‍♀️</h2>
-
+<p align="center"> <img src="https://cdn.dribbble.com/users/88429/screenshots/3052930/immuta_share2.gif" height="450" width="900" > </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
@@ -19,8 +19,8 @@
   
 - ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
-<h3 align="left">Connect with me:</h3>  <img src="https://giphy.com/gifs/icons-lines-heads-3oFyD4yCrbo29sDhZe" height="50" width="50" >
-<p align="left">
+<h3 align="left">Connect with me:   <img src="https://giphy.com/gifs/icons-lines-heads-3oFyD4yCrbo29sDhZe" height="50" width="50" >
+<p align="left">  </h3>  
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amrutha sri amaravati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha sri amaravati" height="30" width="40" /></a>
 <a href="https://www.behance.net/amrutha sri amaravati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amrutha sri amaravati" height="30" width="40" /></a>
