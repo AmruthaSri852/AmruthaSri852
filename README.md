@@ -1,5 +1,5 @@
-<h1 align="left">Hello <img src="https://gifimage.net/wp-content/uploads/2017/08/imagenes-de-gif-8.gif" height="50" width="50" >, I'm Amrutha Sri </h1>
-<h2 align="left">Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and explorer🚴‍♀️</h2>
+<h1 align="left">Hello, I'm Amrutha Sri </h1>
+<h2 align="left"> </h2>
 <p align="center"> <img src="https://cdn.dribbble.com/users/88429/screenshots/3052930/immuta_share2.gif" height="450" width="900" > </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
 
@@ -19,11 +19,14 @@
 
 ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
-<h1 align="left">How I work</h>
-<h3 aligh="left">My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my all time favorite ✅</h3>
+<h2 align="left">My personal self</h2>
+Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
 
-<h1 align="left">Goals for 2021</h>
-<h3 aligh="left">I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment</h3>
+<h2 align="left">How I work</h2>
+My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
+
+<h2 align="left">Goals for 2021</h2>
+I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a **rigorvigor**, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment
 
 <h2 align="left">Connect with me: <p align="left">  </h2>  
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
