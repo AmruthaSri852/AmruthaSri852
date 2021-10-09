@@ -1,19 +1,20 @@
-<h1 align="left">Hello, I'm Amrutha Sri </h1>
-<h2 align="left"> </h2>
-<p align="center"> <img src="https://cdn.dribbble.com/users/88429/screenshots/3052930/immuta_share2.gif" height="450" width="900" > </p>
+<h1 align="left">A. Amrutha Sri</h1>
+Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also part of Google developers' Student Club and I recently worked on a magazine "Xuberance.exe" and proceeding myself into the "code". I am pursuing my 2nd year of B.Tech CSE at Guru Ghasidas Central University.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
+<h2 align="left">A fast recap</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
 
-🔭 I’m currently working on [rigorvigor](https://github.com/Rigorvigor)
+🔭 I’m currently working on [rigorvigor](https://rigor-vigor.com/)
 
+ 
 🌱 I’m currently learning **C++/Python, front-end web development, also everything possible**
 
 👨‍💻 All of my projects are available at [https://amruthasriamaravat.wixsite.com/my-site](https://amruthasriamaravat.wixsite.com/my-site)
 
 📝 I regularly write articles on [https://edhub.in/blogs](https://edhub.in/blogs)
 
-📫 How to reach me **amruthasriamaravati852@gmail.com** 
+📫 How to reach me [amrutha@sri](amruthasriamaravati852@gmail.com)
 
 📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 
@@ -26,7 +27,12 @@ Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and 
 My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
 
 <h2 align="left">Goals for 2021</h2>
-I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a **rigorvigor**, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment
+I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Beside of working on this I also want to buildup my trophies!  
+
+<h2 align="left"> Trophies: </h2>
+(I'm new aleart*)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
 
 <h2 align="left">Connect with me: <p align="left">  </h2>  
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
