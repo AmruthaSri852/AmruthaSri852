@@ -18,7 +18,7 @@ Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also pa
 
 📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 
-⚡ Fun fact **I still cant realize that why melody is so chocolately**
+⚡ Fun fact **I still cant realize that why melody is so chocolately**   
 
 <h2 align="left">My personal self</h2>
 Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
