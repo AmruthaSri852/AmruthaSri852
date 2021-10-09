@@ -30,7 +30,7 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Beside of working on this I also want to buildup my trophies!  
 
 <h2 align="left"> Trophies: </h2>
-(I'm new aleart*)
+(I'm new alert*)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
 
