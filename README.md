@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
 
-- 🔭 I’m currently working on [rigorvigor](https://github.com/Rigorvigor)
-
-- 🌱 I’m currently learning **C++/Python, front-end web development, also everything possible**
-
-- 👨‍💻 All of my projects are available at [https://amruthasriamaravat.wixsite.com/my-site](https://amruthasriamaravat.wixsite.com/my-site)
-
-- 📝 I regularly write articles on [https://edhub.in/blogs](https://edhub.in/blogs)
-
-- 📫 How to reach me **amruthasriamaravati852@gmail.com** 
-
-- 📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
-  
-- ⚡ Fun fact **I still cant realize that why melody is so chocolately**
+🔭 I’m currently working on [rigorvigor](https://github.com/Rigorvigor)
+🌱 I’m currently learning **C++/Python, front-end web development, also everything possible**
+👨‍💻 All of my projects are available at [https://amruthasriamaravat.wixsite.com/my-site](https://amruthasriamaravat.wixsite.com/my-site)
+📝 I regularly write articles on [https://edhub.in/blogs](https://edhub.in/blogs)
+📫 How to reach me **amruthasriamaravati852@gmail.com** 
+📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
+⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
 <h3 align="left">Connect with me: <p align="left">  </h3>  
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
