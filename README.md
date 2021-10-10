@@ -20,7 +20,7 @@ Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also pa
 
 ⚡ Fun fact **I still cant realize that why melody is so chocolately**   
 
-<h2 align="left">My personal self<img src="https://data.whicdn.com/images/333512267/original.gif" height="65" width="95" ></h2>             
+<h2 align="left">My personal self<img src="http://images6.fanpop.com/image/photos/42900000/-I-am-inevitable-I-am-Iron-Man-Avengers-Endgame-2019-the-avengers-42925674-540-328.gif" height="65" width="95" ></h2>             
 Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
 
 <h2 align="left">How I work</h2>
