@@ -50,6 +50,5 @@ I was over prevaricated over my sanguine disposition and I was ubiquitous in nea
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthasri852&show_icons=true&locale=en&layout=compact" alt="amruthasri852" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en" alt="amruthasri852" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amruthasri852&" alt="amruthasri852" /></p>
