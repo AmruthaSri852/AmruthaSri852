@@ -1,11 +1,10 @@
-<h1 align="left">A. Amrutha Sri</h1>
+<h1 align="left">A. Amrutha Sri <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
 Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also part of Google developers' Student Club and I recently worked on a magazine "Xuberance.exe" and proceeding myself into the "code". I am pursuing my 2nd year of B.Tech CSE at Guru Ghasidas Central University.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
-<h2 align="left">A fast recap</h2>
+<h2 align="left">A fast recap <img src="https://media.vanityfair.com/photos/55ac41fdfff2c16856a6e3d6/master/w_690,c_limit/ant-man-spoilers.gif" align="center" height="65" width="110" ></h2>
 
 
-🔭 I’m currently working on [rigorvigor](https://rigor-vigor.com/)
+🔭 I’m currently working on [rigorvigor](https://rigor-vigor.com/), on this page ofc🤣
 
  
 🌱 I’m currently learning **C++/Python, front-end web development, also everything possible**
