@@ -14,13 +14,13 @@
 -    📄 Know about my experience [Resume](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 -    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
-<h2 align="left">My personal self</h2>             
+<h2 align="left">My personal self✨</h2>             
 Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
 
-<h2 align="left">How I work</h2>
+<h2 align="left">How I work🔮</h2>
 My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
 
-<h2 align="left">Goals for 2021</h2>
+<h2 align="left">Goals for 2021🎯</h2>
 I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Beside of working on this I also want to buildup my trophies!  
 
 <h2 align="left"> Trophies</h2>
