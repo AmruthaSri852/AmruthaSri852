@@ -28,7 +28,7 @@ I was over prevaricated over my sanguine disposition and I was ubiquitous in nea
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/81810889/137156378-42e5156d-345a-4157-9c53-b43d99d7829a.gif" align="center" height="400" width="850" > </p>
-<h2 align="left"🔴🔺🟥 Connect with me</h2>  
+<h2 align="left"> 🔴🔺🟥 Connect with me </h2>  
 <p align="left" > 
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amrutha sri amaravati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha sri amaravati" height="30" width="40" /></a>
