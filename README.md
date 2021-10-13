@@ -1,31 +1,20 @@
-<h1 align="left">A. Amrutha Sri <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
+<h1 align="left">Hi, I'm A. Amrutha sri <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
+
+| Content Writer| Graphic Designer| Freelancer| Author| Coder| Student| Co-Founder| Blogger| Developer| 
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p> 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en">
 
-Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also part of Google developers' Student Club and I recently worked on a magazine "Xuberance.exe" and proceeding myself into the "code". I am pursuing my 2nd year of B.Tech CSE at Guru Ghasidas Central University.
-<p> 
- 
- </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>  
 
-<h2 align="left">A fast recap <img src="https://media.vanityfair.com/photos/55ac41fdfff2c16856a6e3d6/master/w_690,c_limit/ant-man-spoilers.gif" align="center" height="65" width="110" ></h2>
+-    ⚒️ I’m currently working on this Page
+-    🌱 Swotting **C++/Python, front-end, everything possible**
+-    👨‍💻 For More Details: [My Portfolio](https://amruthasriamaravat.wixsite.com/my-site)
+-    📝 My Blogs were updated [here](https://edhub.in/blogs)
+-    📫 Get in touch: [amrutha@sri](amruthasriamaravati852@gmail.com)
+-    📄 Know about my experience [Resume](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
+-    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
-
-🔭 I’m currently working on [rigorvigor](https://rigor-vigor.com/), on this page ofc🤣
-
- 
-🌱 I’m currently learning **C++/Python, front-end web development, also everything possible**
-
-👨‍💻 All of my projects are available at [https://amruthasriamaravat.wixsite.com/my-site](https://amruthasriamaravat.wixsite.com/my-site)
-
-📝 I regularly write articles on [https://edhub.in/blogs](https://edhub.in/blogs)
-
-📫 How to reach me [amrutha@sri](amruthasriamaravati852@gmail.com)
-
-📄 Know about my experience [https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
-
-⚡ Fun fact **I still cant realize that why melody is so chocolately**   
-
-<h2 align="left">My personal self <img src="http://images6.fanpop.com/image/photos/42900000/-I-am-inevitable-I-am-Iron-Man-Avengers-Endgame-2019-the-avengers-42925674-540-328.gif" height="65" width="95" ></h2>             
+<h2 align="left">My personal self</h2>             
 Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
 
 <h2 align="left">How I work</h2>
@@ -34,7 +23,7 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 <h2 align="left">Goals for 2021</h2>
 I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Beside of working on this I also want to buildup my trophies!  
 
-<h2 align="left"> Trophies<img src="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/2nicholas/movies%20stuff/joker.gif" height="65" width="95" > </h2>
+<h2 align="left"> Trophies<img src="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/2nicholas/movies%20stuff/joker.gif" align="center" height="65" width="95" > </h2>
 (I'm new alert*)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
