@@ -14,21 +14,21 @@
 -    📄 Know about my experience [Resume](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 -    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
-<h2 align="left">My personal self✨</h2>             
+<h2 align="left">✨My Personal Self</h2>             
 Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
 
-<h2 align="left">How I work🔮</h2>
+<h2 align="left">🔮How I Work</h2>
 My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
 
-<h2 align="left">Goals for 2021🎯</h2>
+<h2 align="left">🎯Goals For 2021</h2>
 I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Beside of working on this I also want to buildup my trophies!  
 
-<h2 align="left"> Trophies</h2>
+<h2 align="left">🏆Trophies</h2>
 (I'm new alert*)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthasri852" alt="amruthasri852" /></a> </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/81810889/137156378-42e5156d-345a-4157-9c53-b43d99d7829a.gif" align="center" height="400" width="850" > </p>
-<h2 align="left">Connect with me  </h2>  
+<h2 align="left"🔴🔺🟥 Connect with me</h2>  
 <p align="left" > 
 <a href="https://codepen.io/amruthasri852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruthasri852" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amrutha sri amaravati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha sri amaravati" height="30" width="40" /></a>
