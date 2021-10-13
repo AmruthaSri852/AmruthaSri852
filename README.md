@@ -1,6 +1,12 @@
 <h1 align="left">A. Amrutha Sri <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en">
+
 Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also part of Google developers' Student Club and I recently worked on a magazine "Xuberance.exe" and proceeding myself into the "code". I am pursuing my 2nd year of B.Tech CSE at Guru Ghasidas Central University.
+<p> 
+ 
+ </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
+
 <h2 align="left">A fast recap <img src="https://media.vanityfair.com/photos/55ac41fdfff2c16856a6e3d6/master/w_690,c_limit/ant-man-spoilers.gif" align="center" height="65" width="110" ></h2>
 
 
