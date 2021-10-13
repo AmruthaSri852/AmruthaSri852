@@ -5,7 +5,7 @@ Hii, I'm Amrutha__head of design/co-founder @rigorvigor; freelancer; and also pa
 <p> 
  
  </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p>  
 
 <h2 align="left">A fast recap <img src="https://media.vanityfair.com/photos/55ac41fdfff2c16856a6e3d6/master/w_690,c_limit/ant-man-spoilers.gif" align="center" height="65" width="110" ></h2>
 
