@@ -30,11 +30,14 @@ I was over prevaricated over my sanguine disposition and I was ubiquitous in nea
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/81810889/137156378-42e5156d-345a-4157-9c53-b43d99d7829a.gif" align="center" height="400" width="850" > </p>
 
-<h2 align="left"> 🔴🔺🟥 Connect with me: </h2>  
+<h2 align="left"> 🔴🔺🟥 Connect with me: </h2>
 
 [<img alt="Codepen" src="https://img.shields.io/badge/-codepen-%23EABC00.svg?&style=for-the-badge&logo=codepen&logoColor=black"/>](https://codepen.io/amruthasri852)   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://amruthasriamaravati852@gmail.com/)   [<img alt="Behance" src="https://img.shields.io/badge/behance-%230052F2.svg?&style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/amruthasriamaravati)    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/amruthasriamaravati) 
 
-<h2 align="left">👩‍💻Languages and Tools: </h2>
+<h4 align="center"> Follow me to know the most authentic version of me!</h4>
+
+
+<h2 align="left"> Languages and Tools: </h2>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
