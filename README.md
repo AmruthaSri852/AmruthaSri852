@@ -14,6 +14,13 @@
 -    📄 Know about my experience [Resume](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
 -    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
+
+<h2 align="left"> 🔴🔺🟥 Connect with me: </h2>
+
+[<img alt="Codepen" src="https://img.shields.io/badge/-codepen-%23EABC00.svg?&style=for-the-badge&logo=codepen&logoColor=black"/>](https://codepen.io/amruthasri852)   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://amruthasriamaravati852@gmail.com/)   [<img alt="Behance" src="https://img.shields.io/badge/behance-%230052F2.svg?&style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/amruthasriamaravati)    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/amruthasriamaravati) 
+
+<h3 align="center"> Follow me to know the most authentic version of me!</h3>
+
 <h2 align="left">✨My Personal Self:</h2>             
 Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
  
@@ -30,11 +37,6 @@ I was over prevaricated over my sanguine disposition and I was ubiquitous in nea
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/81810889/137156378-42e5156d-345a-4157-9c53-b43d99d7829a.gif" align="center" height="400" width="850" > </p>
 
-<h2 align="left"> 🔴🔺🟥 Connect with me: </h2>
-
-[<img alt="Codepen" src="https://img.shields.io/badge/-codepen-%23EABC00.svg?&style=for-the-badge&logo=codepen&logoColor=black"/>](https://codepen.io/amruthasri852)   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://amruthasriamaravati852@gmail.com/)   [<img alt="Behance" src="https://img.shields.io/badge/behance-%230052F2.svg?&style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/amruthasriamaravati)    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/amruthasriamaravati) 
-
-<h4 align="center"> Follow me to know the most authentic version of me!</h4>
 
 
 <h2 align="left"> Languages and Tools: </h2>
