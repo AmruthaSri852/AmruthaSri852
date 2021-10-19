@@ -30,7 +30,7 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 
 <h2 align="left">🎯Goals For 2021:</h2> 
 I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Also, I worked on a magazine called "Xuberence.exe" which is going to pulish soon. Beside of working on this I also want to buildup my trophies!  
-
+ 
 <h2 align="left">🏆Trophies:</h2>
 (I'm new alert*)
 
