@@ -1,3 +1,4 @@
+
 <h1 align="left">Hi, I'm A. Amrutha sri <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
   
 #### | Content Writer| Graphic Designer| Freelancer| Author| Coder| Student| Co-Founder| Blogger| Developer| 
