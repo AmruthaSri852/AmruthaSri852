@@ -5,7 +5,7 @@
  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p> 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en"> 
-
+ 
 
 -    ⚒️ I’m currently working on this Page
 -    🌱 Swotting **C++/Python, front-end, everything possible**
