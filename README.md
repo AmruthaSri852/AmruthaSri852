@@ -23,7 +23,7 @@
 <h2 align="center"> 🥳Follow me to know the most authentic version of me!</h2>
 
 <h2 align="left">✨My Personal Self:</h2>             
-Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore🚴‍♀️
+Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore.🚴‍♀️
  
 <h2 align="left">🔮How I Work:</h2>
 My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
