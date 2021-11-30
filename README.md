@@ -18,7 +18,8 @@
  
 <h2 align="left"> 🔴🔺🟥 Connect with me: </h2>
 
-[<img alt="Codepen" src="https://img.shields.io/badge/-codepen-%23EABC00.svg?&style=for-the-badge&logo=codepen&logoColor=black"/>](https://codepen.io/amruthasri852)   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://amruthasriamaravati852@gmail.com/)   [<img alt="Behance" src="https://img.shields.io/badge/behance-%230052F2.svg?&style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/amruthaamarava)    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/amrutha-sri-amaravati-918872201/)  
+[<img alt="Codechef" src="https://img.shields.io/badge/-codechef-%23EABC00.svg?&style=for-the-badge&logo=codechef&logoColor=black"/>](https://www.codechef.com/users/a_square_s)   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://amruthasriamaravati852@gmail.com/)   [<img alt="Behance" src="https://img.shields.io/badge/behance-%230052F2.svg?&style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/amruthaamarava)    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/amrutha-sri-amaravati-918872201/)   
+
  
 <h2 align="center"> 🥳Follow me to know the most authentic version of me!</h2>
 
