@@ -12,7 +12,7 @@
 -    👨‍💻 For More Details: [My Portfolio](https://amruthasriamaravat.wixsite.com/my-site)
 -    📝 My Blogs were updated [here](https://edhub.in/blogs)
 -    📫 Get in touch: [amrutha@sri](amruthasriamaravati852@gmail.com)
--    📄 Know about my experience [Resume](https://drive.google.com/file/d/1HkbM07kadtP4p06cyhOc6V0NSJqHJDGm/view?usp=sharing)
+-    📄 Know about my experience [Resume](https://drive.google.com/file/d/1rYT4auyGEGjLJ6A9e53BOawOiYZrlaOb/view?usp=sharing)
 -    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
  
