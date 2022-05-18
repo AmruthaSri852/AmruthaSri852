@@ -9,11 +9,11 @@
  
 
 -    ⚒️ I’m currently working on this Page
--    🌱 Swotting **C++/Python, front-end, everything possible**
+-    🌱 Swotting **Face recognition, Flutter**
 -    👨‍💻 For More Details: [My Portfolio](https://amruthasriamaravat.wixsite.com/my-site)
 -    📝 My Blogs were updated [here](https://edhub.in/blogs)
 -    📫 Get in touch: [amrutha@sri](amruthasriamaravati852@gmail.com)
--    📄 Know about my experience [Resume](https://drive.google.com/file/d/1rYT4auyGEGjLJ6A9e53BOawOiYZrlaOb/view?usp=sharing)
+-    📄 Know about my experience [Resume!](https://drive.google.com/file/d/1rYT4auyGEGjLJ6A9e53BOawOiYZrlaOb/view?ths=true)
 -    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
 
  
@@ -31,7 +31,7 @@ Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and 
 My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
 
 <h2 align="left">🎯Goals For 2022:</h2> 
-I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a rigorvigor, which is a one-stop destination for our clients' graphic/content works and providing them 100% contentment. Beside of working on this I also want to buildup my trophies, and the longest streak to 100! (Let's hope for the best*)
+I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a My project on face recognition to track attendance, as a mentee from Microsoft Engage Intern 2022. Beside of working on this I also want to buildup my trophies, and the longest streak to 100! (Let's hope for the best*)
  
 <h2 align="left">🏆Trophies:</h2>
 (I'm a newbie alert*)
