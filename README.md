@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm A. Amrutha sri <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
    
    
-#### | Content Writer| Graphic Designer| Freelancer| Programmer| Student| Co-Founder| Blogger| Developer| 
+#### | Content Writer| Graphic Designer| Freelancer| Programmer| Student| Co-Founder| Blogger| Developer| Mentee |
  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p> 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en"> 
