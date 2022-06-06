@@ -11,10 +11,10 @@
 -    ⚒️ I’m currently working on this Page
 -    🌱 Swotting **Face recognition, Flutter**
 -    👨‍💻 For More Details: [My Portfolio](https://amruthasriamaravat.wixsite.com/my-site)
--    📝 My Blogs were updated [here](https://edhub.in/blogs)
+-    📝 My Blogs were updated [here]([https://edhub.in/blogs](https://docs.google.com/document/d/1oxfWk_t1WsMdzvS0TQxEscbAqILRcGZ_KJWznva5Qvo/edit))
 -    📫 Get in touch: [amrutha@sri](amruthasriamaravati852@gmail.com)
 -    📄 Know about my experience [Resume!](https://drive.google.com/file/d/1rYT4auyGEGjLJ6A9e53BOawOiYZrlaOb/view?ths=true)
--    ⚡ Fun fact **I still cant realize that why melody is so chocolately**
+-    ⚡ Fun fact **I still can't realize that why melody is so chocolately**
 
  
 <h2 align="left"> 🔴🔺🟥 Connect with me: </h2>
