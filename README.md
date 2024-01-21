@@ -8,12 +8,11 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en"> 
  
 
--    ⚒️ I’m currently working on this Page
--    🌱 Swotting **Face recognition, Flutter**
--    👨‍💻 For More Details: [My Portfolio](https://amruthasri852.github.io/PortWeb/)
--    📝 My Blogs were updated [here](https://docs.google.com/document/d/1oxfWk_t1WsMdzvS0TQxEscbAqILRcGZ_KJWznva5Qvo/edit)
--    📫 Get in touch: [amrutha@sri](amruthasriamaravati852@gmail.com)
--    📄 Know about my experience [Resume!](https://drive.google.com/file/d/1rYT4auyGEGjLJ6A9e53BOawOiYZrlaOb/view?ths=true)
+-    ⚒️ I’m currently working on Mobile Apps 
+-    🌱 Swotting **UI/UX**
+-    👨‍💻 For More Details: [My Behance](https://www.behance.net/amruthaamarava)
+-    📫 Mail: [amrutha@sri](amruthasriamaravati852@gmail.com)
+-    📄 Know about my experience [Designer-Resume!](https://docs.google.com/document/d/18njGfUSIe6muQ0ZzqKgSOcFrLEv-oMpfh0qESizNN2U/edit?usp=sharing)
 -    ⚡ Fun fact **I love to Design**
 
  
@@ -21,18 +20,6 @@
 
 [<img alt="Codechef" src="https://img.shields.io/badge/-codechef-%23EABC00.svg?&style=for-the-badge&logo=codechef&logoColor=black"/>](https://www.codechef.com/users/a_square_s)   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://amruthasriamaravati852@gmail.com/)   [<img alt="Behance" src="https://img.shields.io/badge/behance-%230052F2.svg?&style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/amruthaamarava)    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/amrutha-sri-amaravati-918872201/)   
 
- 
-<h2 align="center"> 🥳Follow me to know the most authentic version of me!</h2>
-
-<h2 align="left">✨My Personal Self:</h2>             
-Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore.🚴‍♀️
- 
-<h2 align="left">🔮How I Work:</h2>
-My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
-
-<h2 align="left">🎯Goals For 2022:</h2> 
-I was over prevaricated over my sanguine disposition and I was ubiquitous in nearly all fields and I am currently working on a My project on face recognition to track attendance, as a mentee from Microsoft Engage Intern 2022. Beside of working on this I also want to buildup my trophies, and the longest streak to 100! (Let's hope for the best*)
- 
 <h2 align="left">🏆Trophies:</h2>
 (I'm a newbie alert*)
 
